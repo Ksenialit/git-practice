@@ -1,4 +1,5 @@
 Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
-
+Favourite animal: cat
+Favourite dish: pasta
